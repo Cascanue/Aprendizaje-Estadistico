@@ -507,7 +507,7 @@ async function predictCustomer(e) {
   errBanner.classList.add('hidden');
   
   try {
-    const res = await fetch('http://127.0.0.1:5000/predecir', {
+    const res = await fetchfetch('[https://backend-estadistica.onrender.com/predecir](https://backend-estadistica.onrender.com/predecir)', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -644,7 +644,7 @@ async function processBatch(){
     }));
 
     // 2. Hacer la petición al backend real
-    const res = await fetch('http://127.0.0.1:5000/predecir_lote', {
+    const res = await fetchfetch('[https://backend-estadistica.onrender.com/predecir_lote](https://backend-estadistica.onrender.com/predecir_lote)', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ clientes: clientesPayload })

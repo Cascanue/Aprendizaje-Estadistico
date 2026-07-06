@@ -27,9 +27,9 @@ Las pruebas de estabilidad geométrica arrojaron las siguientes métricas para e
 * **Interfaz de Usuario (Frontend):** https://aprendizaje-estadistico.vercel.app
 
 ## 🧑‍💻 Autores
-* -Arreátegui Gutiérrez, Fabricio André
-* -Gomez Rivera, Diego Alfredo
-* -Lezama Pasco, Diegoandree Ronald
-* -Morgan Martinet Sebastián
-* -Tarrillo Villanueva, Jerson David
-* -Vasquez Marquina, Yair Asael 
+* Arreátegui Gutiérrez, Fabricio André
+* Gomez Rivera, Diego Alfredo
+* Lezama Pasco, Diegoandree Ronald
+* Morgan Martinet Sebastián
+* Tarrillo Villanueva, Jerson David
+* Vasquez Marquina, Yair Asael 

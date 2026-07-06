@@ -1,4 +1,4 @@
-# Sistema de Segmentación de Clientes Retail (Aprendizaje Estadístico) 📊
+# Sistema de Segmentación de Clientes Retail (Aprendizaje Estadístico) 
 
 Este proyecto implementa un modelo de Machine Learning (K-Means) para segmentar automáticamente a los clientes de una empresa del sector retail basándose en su comportamiento transaccional utilizando la metodología RFM (Recencia, Frecuencia, Monetario).
 
